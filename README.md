@@ -10,8 +10,6 @@ N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
 The content of the webpage provides a foundation before beginning the course. Although not exhaustive, the webpage consolidates some basic principles of HTML, CSS, JavaScript, and Git to reference throughout the course. Open the Chrome DevTools console to see the JavaScript. The JavaScript lists the four topics covered in the prework and then selects a random topic to study first. 
 
 ## Credits
