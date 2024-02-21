@@ -21,9 +21,11 @@ function selectTopic() {
     }
 }
 
+//prints all prework topics
 console.log('Here are the topics we learned through Prework:');
 listTopics();
 
+//prints a random topic to study
 console.log('Which topic should we study first?');
 selectTopic();
 
